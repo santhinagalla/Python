@@ -1,3 +1,3 @@
 # Phyton
 
-Phyton Basics and Design patterns
+Phyton Basics and Design pattern Programming
