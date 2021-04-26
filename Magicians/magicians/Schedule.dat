@@ -1,0 +1,31 @@
+{
+    "bookings_by_holidays": {
+        "Labor Day": {
+            "John": "Dennis Kyriakos"
+        },
+        "Veteran's Day": {
+            "John": "Doria'n Rhodell",
+            "Mike": "Dennis Kyriakos",
+            "Smith": "Alan"
+        },
+        "MLK Day": {
+            "Sham": "Dennis Kyriakos"
+        }
+    },
+    "bookings_by_magicians": {
+        "Dennis Kyriakos": {
+            "Labor Day": "John",
+            "MLK Day": "Sham",
+            "Veteran's Day": "Mike"
+        },
+        "Doria'n Rhodell": {
+            "Veteran's Day": "John"
+        },
+        "Alan": {
+            "Veteran's Day": "Smith"
+        }
+    },
+    "waiting_list": {
+        "Veteran's Day": []
+    }
+}
