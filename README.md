@@ -1,3 +1,3 @@
 # Python
 
-Phyton Basics and Design pattern Programming
+Python Basics and Design pattern Programming
